@@ -16,7 +16,7 @@ You can then access petclinic here: http://localhost:8080/
 
 ## Database configuration
 
-As this is slightly modified version of standard petclinic app, this project has explicitly MySQL configuration.
+As this is slightly modified version of standard petclinic app, this project has explicit MySQL configuration.
 
 ## Working with Petclinic in Eclipse/STS
 
@@ -40,9 +40,9 @@ File -> Import -> Maven -> Existing Maven project
 
 |Spring Boot Configuration | Class or Java property files  |
 |--------------------------|---|
-|The Main Class | [PetClinicApplication](https://github.com/spring-projects/spring-petclinic/blob/master/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java) |
-|Properties Files | [application.properties](https://github.com/spring-projects/spring-petclinic/blob/master/src/main/resources) |
-|Caching | [CacheConfig](https://github.com/spring-projects/spring-petclinic/blob/master/src/main/java/org/springframework/samples/petclinic/system/CacheConfig.java) |
+|The Main Class | [PetClinicApplication](https://github.com/tanmayghosh2507/spring-petclinic-mysql-example/blob/master/src/main/java/org/springframework/samples/petclinic/PetClinicApplication.java) |
+|Properties Files | [application.properties](https://github.com/tanmayghosh2507/spring-petclinic-mysql-example/blob/master/src/main/resources) |
+|Caching | [CacheConfig](https://github.com/tanmayghosh2507/spring-petclininc-mysql-example/blob/master/src/main/java/org/springframework/samples/petclinic/system/CacheConfig.java) |
 
 
 # Contributing to Original Petclinic Application
